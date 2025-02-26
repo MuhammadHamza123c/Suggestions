@@ -1,0 +1,4 @@
+flask
+gunicorn
+sqlite3
+qrcode
